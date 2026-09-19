@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=PRAMOD%20KAUSHAL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GAME%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A2540,100:007BFF&height=230&section=header&text=PRAMOD%20KAUSHAL&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=GAME%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=18&descColor=FFFFFF" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=🎮+Unity+Game+Developer;⚔️+Building+2D+Games+with+C%23;🚀+Turning+Ideas+into+Playable+Experiences;💻+Software+Engineer;🧠+Learning+Game+Systems+%26+Architecture;🔥+Currently+Building+My+Game+Dev+Portfolio" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=2800&pause=900&color=007BFF&center=true&vCenter=true&width=750&lines=GAME+DEVELOPER;UNITY+%7C+C%23+DEVELOPER;BUILDING+2D+GAMES;GAMEPLAY+PROGRAMMING;SOFTWARE+ENGINEER;BUILDING+MY+GAME+DEVELOPMENT+PORTFOLIO" alt="Typing animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Unity-Game%20Development-black?style=for-the-badge&logo=unity"/>
-<img src="https://img.shields.io/badge/C%23-Game%20Programming-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/2D-Games-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software-Engineering-0078D4?style=for-the-badge"/>
+<strong>UNITY</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<strong>C#</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<strong>GAME DEVELOPMENT</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<strong>SOFTWARE ENGINEERING</strong>
 
 </div>
 
@@ -25,40 +28,40 @@ I enjoy building games with **Unity and C#**, experimenting with gameplay mechan
 
 My current focus is building a strong foundation in **game programming and game development workflows** while continuing to develop my software engineering skills.
 
-```text
-              GAME DEVELOPER                  
-Engine       → Unity                     
-Language     → C#                        
-Focus        → 2D Game Development      
-Gameplay     → Combat & Game Systems     
-AI           → Enemy Behaviour           
-UI           → Game Interfaces            
-Tools        → Git • GitHub • VS Code
-                                             
+<div align="center">
 
-```
+<kbd>UNITY</kbd>
+&nbsp;
+<kbd>C#</kbd>
+&nbsp;
+<kbd>2D GAME DEVELOPMENT</kbd>
+&nbsp;
+<kbd>GAMEPLAY PROGRAMMING</kbd>
+&nbsp;
+<kbd>ENEMY AI</kbd>
+&nbsp;
+<kbd>GAME UI</kbd>
+&nbsp;
+<kbd>GIT & GITHUB</kbd>
+
+</div>
 
 ---
 
 # Game Development
 
-My main interest is creating **2D games with Unity and C#**.
+My main focus is building **2D games with Unity and C#**, with an emphasis on gameplay programming and interactive systems.
 
-I'm currently working with gameplay systems such as:
+<div align="center">
 
-```text
-🎮 Player Movement
-⚔️ Combat Systems
-👾 Enemy Behaviour
-💥 Projectiles & Explosions
-❤️ Health & Lives
-🏆 Score Systems
-🎯 Game Objectives
-🖥️ Game UI
-🎬 Animations
-🌎 Scene Management
-💾 Game State Management
-```
+| Gameplay | Systems | Technical |
+|:---:|:---:|:---:|
+| Player Movement | Health & Lives | C# Programming |
+| Combat | Score Systems | Unity Physics |
+| Enemy Behaviour | Game Objectives | Scene Management |
+| Projectiles | Game UI | Animation |
+
+</div>
 
 I'm particularly interested in learning how individual mechanics come together to create a complete game.
 
@@ -66,97 +69,77 @@ I'm particularly interested in learning how individual mechanics come together t
 
 # Game Projects
 
-## Action 2D RPG
+## ⚔️ Action 2D RPG
 
 A 2D action RPG developed using **Unity and C#**.
 
 The project explores player movement, enemies, combat mechanics, game environments and gameplay systems.
 
-```text
-ENGINE       Unity
-LANGUAGE     C#
-GENRE        Action RPG
-PLATFORM     PC
-STATUS       Development
-```
+**Unity** · **C#** · **Action RPG** · **PC**
+
+`In Development`
 
 <a href="https://github.com/Pramod04Kaushal/Action-2D-RPG">
-<img src="https://img.shields.io/badge/🎮%20VIEW%20PROJECT-8A2BE2?style=for-the-badge"/>
+<a href="https://github.com/Pramod04Kaushal/Action-2D-RPG">
+  <strong>View Project →</strong>
+</a>
 </a>
 
 ---
 
-## Space Shooter
+## 🚀 Space Shooter
 
 A 2D space shooter created with Unity.
 
 The project includes player controls, projectile firing, enemy movement, enemy destruction, explosions, health/lives and scoring systems.
 
-```text
-ENGINE       Unity
-LANGUAGE     C#
-GENRE        Space Shooter
-PLATFORM     Mobile
-STATUS       Development
-```
+**Unity** · **C#** · **Action RPG** · **PC**
+
+`In Development`
 
 <a href="https://github.com/Pramod04Kaushal/SpaceShooterMobile">
-<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-8A2BE2?style=for-the-badge"/>
+<a href="https://github.com/Pramod04Kaushal/SpaceShooterMobile">
+  <strong>View Project →</strong>
+</a>
 </a>
 
 ---
 
-## Flappy Bird
+## 🐦 Flappy Bird
 
 A Unity-based recreation of the classic Flappy Bird gameplay concept.
 
 The project helped me practice game loops, player physics, collision detection, scoring, UI and game-over/restart systems.
 
-```text
-ENGINE       Unity
-LANGUAGE     C#
-GENRE        Arcade
-PLATFORM     PC
-STATUS       Completed
-```
+**Unity** · **C#** · **Action RPG** · **PC**
+
+`In Development`
 
 ---
 
 # What I'm Learning
 
-```text
-                    GAME DEVELOPMENT
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-       GAMEPLAY           AI              UI
-          │                │                │
-     ┌────┴────┐       Enemy Logic      Menus
-     │         │       Movement          HUD
-   Combat    Physics    Behaviour         Score
-     │
-     └── Player Systems
-             │
-        Health / Input
-        Movement / State
-```
+<div align="center">
 
-My current learning path includes:
+### GAMEPLAY
 
-* Unity game architecture
-* C# gameplay programming
-* 2D physics
-* Enemy AI and behaviour
-* Animation systems
-* Game UI
-* Scene management
-* Game optimization
-* Git/GitHub workflows
-* Building complete playable projects
+`Combat` · `Player Systems` · `Physics` · `Game States`
 
----
+### AI
 
-# Game Development Stack
+`Enemy Behaviour` · `Movement Logic` · `Detection` · `Decision Systems`
+
+### GAME SYSTEMS
+
+`UI` · `Animation` · `Scene Management` · `Optimization`
+
+### WORKFLOW
+
+`Git` · `GitHub` · `Debugging` · `Project Architecture`
+
+</div>
+
+# 🛠️ Game Development Stack
 
 <div align="center">
 
@@ -186,65 +169,38 @@ Although game development is my main area of interest, I also work with software
 
 </div>
 
-```text
-C#              ████████████████████
-Unity           ███████████████████
-JavaScript      ███████████████
-React           █████████████
-ASP.NET         █████████████
-PHP             ███████████
-SQL             ███████████
-```
+
 
 ---
 
 # Current Mission
 
-```text
-┌───────────────────────────────────────────────┐
-│                 CURRENT QUEST                 │
-├───────────────────────────────────────────────┤
-│                                               │
-│  [✓] Learn Unity                              │
-│  [✓] Build First Game Projects                │
-│  [✓] Learn C# Gameplay Programming            │
-│  [✓] Build 2D Game Mechanics                  │
-│  [✓] Learn Git & GitHub                       │
-│                                               │
-│  [→] Build More Advanced Games                │
-│  [→] Improve Game Architecture                │
-│  [→] Learn Advanced Enemy AI                  │
-│  [→] Improve Game Design Skills               │
-│  [→] Build a Professional Game Portfolio      │
-│                                               │
-└───────────────────────────────────────────────┘
-```
+<div align="center">
+
+### COMPLETED
+
+`Unity Fundamentals` · `C# Gameplay Programming` · `2D Mechanics` · `Git & GitHub`
+
+### CURRENTLY BUILDING
+
+`Action RPG` · `Gameplay Systems` · `Enemy AI` · `Game UI`
+
+### NEXT
+
+`Advanced Game Architecture` · `Advanced AI` · `Optimization` · `Professional Portfolio`
+
+</div>
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pramod04Kaushal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod04Kaushal&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<div align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=Pramod04Kaushal&show_icons=true&theme=github_dark&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=FFFFFF" height="180" alt="GitHub statistics"/> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pramod04Kaushal&layout=compact&theme=github_dark&hide_border=true&title_color=007BFF&text_color=FFFFFF" height="180" alt="Top languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Pramod04Kaushal&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Pramod04Kaushal&theme=black-ice&hide_border=true&ring=007BFF&fire=007BFF&currStreakLabel=007BFF" alt="GitHub contribution streak"/> </div>
 
-</div>
-
----
-
-# 📈 Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramod04Kaushal&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
 
 ---
 
@@ -252,7 +208,11 @@ SQL             ███████████
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Pramod04Kaushal/Pramod04Kaushal/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pramod04Kaushal/Pramod04Kaushal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pramod04Kaushal/Pramod04Kaushal/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Pramod04Kaushal/Pramod04Kaushal/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -262,23 +222,31 @@ SQL             ███████████
 
 I'm also interested in the creative side of game development.
 
-```text
-🎵 Music
-   └── Hip-Hop / Beat Production
+<div align="center">
 
-🎮 Games
-   └── Gameplay / Mechanics / Game Design
+<kbd>MUSIC</kbd>
+&nbsp; Hip-Hop & Beat Production
 
-🎨 Creativity
-   └── Visual Ideas / Game Concepts
+&nbsp;&nbsp;&nbsp;
 
-💻 Technology
-   └── Software / Web / Game Development
-```
+<kbd>GAMES</kbd>
+&nbsp; Gameplay & Game Design
+
+&nbsp;&nbsp;&nbsp;
+
+<kbd>CREATIVITY</kbd>
+&nbsp; Visual Concepts & Ideas
+
+&nbsp;&nbsp;&nbsp;
+
+<kbd>TECH</kbd>
+&nbsp; Software & Web Development
+
+</div>
 
 ---
 
-# 📚 Education
+# Education
 
 **Bachelor's Degree in Software Engineering**
 
@@ -289,33 +257,20 @@ Second Class Upper Division
 
 ---
 
-# 🔥 Developer Mindset
+# Developer Mindset
 
 <div align="center">
 
-```text
-       THINK
-         ↓
-       BUILD
-         ↓
-       TEST
-         ↓
-       BREAK
-         ↓
-      DEBUG
-         ↓
-      IMPROVE
-         ↓
-       SHIP
-```
+**THINK** → **BUILD** → **TEST** → **DEBUG** → **IMPROVE** → **SHIP**
 
 </div>
 
-I believe the best way to learn development is to **build real projects, solve real problems, and keep improving them**.
+I believe the best way to learn development is to **build real projects, solve real problems, and continuously improve them**.
+
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <div align="center">
 
@@ -329,11 +284,7 @@ I believe the best way to learn development is to **build real projects, solve r
 
 <div align="center">
 
-### 🎮 BUILDING GAMES
-
-### 💻 BUILDING SOFTWARE
-
-### 🚀 BUILDING THE FUTURE
+### BUILDING GAMES | BUILDING SOFTWARE | BUILDING THE FUTURE
 
 <br>
 
