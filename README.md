@@ -65,57 +65,7 @@ My main focus is building **2D games with Unity and C#**, with an emphasis on ga
 
 I'm particularly interested in learning how individual mechanics come together to create a complete game.
 
----
 
-# Game Projects
-
-## ⚔️ Action 2D RPG
-
-A 2D action RPG developed using **Unity and C#**.
-
-The project explores player movement, enemies, combat mechanics, game environments and gameplay systems.
-
-**Unity** · **C#** · **Action RPG** · **PC**
-
-`In Development`
-
-<a href="https://github.com/Pramod04Kaushal/Action-2D-RPG">
-<a href="https://github.com/Pramod04Kaushal/Action-2D-RPG">
-  <strong>View Project →</strong>
-</a>
-</a>
-
----
-
-## 🚀 Space Shooter
-
-A 2D space shooter created with Unity.
-
-The project includes player controls, projectile firing, enemy movement, enemy destruction, explosions, health/lives and scoring systems.
-
-**Unity** · **C#** · **Action RPG** · **PC**
-
-`In Development`
-
-<a href="https://github.com/Pramod04Kaushal/SpaceShooterMobile">
-<a href="https://github.com/Pramod04Kaushal/SpaceShooterMobile">
-  <strong>View Project →</strong>
-</a>
-</a>
-
----
-
-## 🐦 Flappy Bird
-
-A Unity-based recreation of the classic Flappy Bird gameplay concept.
-
-The project helped me practice game loops, player physics, collision detection, scoring, UI and game-over/restart systems.
-
-**Unity** · **C#** · **Action RPG** · **PC**
-
-`In Development`
-
----
 
 # What I'm Learning
 
