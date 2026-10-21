@@ -60,9 +60,9 @@ Featured Projects
   <a href="https://github.com/Pramod04Kaushal?tab=repositories"><strong>Explore all repositories →</strong></a>
 </p>
 
-Education
-Software Engineering — Second Class Upper Division
-Esoft Metro Campus · In partnership with London Metropolitan University
+<h3>Education</h3>
+Software Engineering — Second Class Upper Division </br>
+Esoft Metro Campus · In partnership with London Metropolitan University </br>
 <div align="center">
 
 
