@@ -30,13 +30,13 @@ Featured Projects
       <h3>UniManage</h3>
       <p>University management system built with C#, ASP.NET MVC, and Microsoft SQL Server.</p>
       <p><sub>MVC architecture · Relational databases</sub></p>
-      <a href="https://github.com/Pramod04Kaushal?tab=repositories">Browse repositories →</a>
+      <a href="https://github.com/Pramod04Kaushal/UniManage">Browse Repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>TripInMind</h3>
       <p>Travel destination recommendation website focused on helping people discover places in Sri Lanka.</p>
       <p><sub>PHP · MySQL · JavaScript · Maps APIs</sub></p>
-      <a href="https://github.com/Pramod04Kaushal?tab=repositories">Browse repositories →</a>
+      <a href="https://github.com/Pramod04Kaushal/tripinmind">Browse Repository →</a>
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Featured Projects
       <h3>PAL Fish Farm</h3>
       <p>Responsive business website built with React and Vite, with reusable components and theme switching.</p>
       <p><sub>React · JavaScript · CSS</sub></p>
-      <a href="https://github.com/Pramod04Kaushal?tab=repositories">Browse repositories →</a>
+      <a href="https://github.com/Pramod04Kaushal/tripinmind">Browse Repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>Unity Game Projects</h3>
