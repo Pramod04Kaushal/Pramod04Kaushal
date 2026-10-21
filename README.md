@@ -1,6 +1,6 @@
 <div align="center">
 
-Pramod Kaushal
+Pramod Kaushal </br>
 Software Engineering Graduate · Aspiring Software Engineer
 
 Building practical software, exploring technologies, and solving problems.
@@ -69,5 +69,5 @@ Esoft Metro Campus · In partnership with London Metropolitan University </br>
 
 <a href="https://github.com/Pramod04Kaushal">GitHub</a> ·
 <a href="https://github.com/Pramod04Kaushal?tab=repositories">Projects</a> ·
-<a href="LINKEDIN_PROFILE_URL">LinkedIn</a>
+<a href="https://www.linkedin.com/in/pramod-kaushal-a09644216/">LinkedIn</a>
 </div>
