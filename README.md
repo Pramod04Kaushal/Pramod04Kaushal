@@ -7,8 +7,7 @@ Building practical software, exploring technologies, and solving problems.
 
 <a href="https://github.com/Pramod04Kaushal">GitHub</a> ·
 <a href="https://github.com/Pramod04Kaushal?tab=repositories">Repositories</a> ·
-<a href="LINKEDIN_PROFILE_URL">LinkedIn</a> ·
-<a href="mailto:YOUR_EMAIL@example.com">Email</a>
+<a href="https://www.linkedin.com/in/pramod-kaushal-a09644216/">LinkedIn</a> ·
 </div>
 
 About
