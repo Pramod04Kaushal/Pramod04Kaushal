@@ -1,243 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A2540,100:007BFF&height=230&section=header&text=PRAMOD%20KAUSHAL&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=GAME%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=18&descColor=FFFFFF" width="100%"/>
+Pramod Kaushal
+Software Engineering Graduate · Aspiring Software Engineer
 
-<br>
+Building practical software, exploring technologies, and solving problems.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=2800&pause=900&color=007BFF&center=true&vCenter=true&width=750&lines=GAME+DEVELOPER;UNITY+%7C+C%23+DEVELOPER;BUILDING+2D+GAMES;GAMEPLAY+PROGRAMMING;SOFTWARE+ENGINEER;BUILDING+MY+GAME+DEVELOPMENT+PORTFOLIO" alt="Typing animation"/>
-
-<br><br>
-
-<strong>UNITY</strong>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<strong>C#</strong>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<strong>GAME DEVELOPMENT</strong>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<strong>SOFTWARE ENGINEERING</strong>
-
+<a href="https://github.com/Pramod04Kaushal">GitHub</a> ·
+<a href="https://github.com/Pramod04Kaushal?tab=repositories">Repositories</a> ·
+<a href="LINKEDIN_PROFILE_URL">LinkedIn</a> ·
+<a href="mailto:YOUR_EMAIL@example.com">Email</a>
 </div>
 
----
+About
+I'm a Software Engineering graduate with a Second Class Upper Division degree. I enjoy building applications, working with data, and understanding how individual components come together to form reliable software.
 
-# About Me
+My projects span web development, database-driven applications, and game development. I'm strengthening my programming fundamentals, software design, debugging, and collaborative development practices as I prepare for a software engineering internship.
+Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,php,html,css,react,unity,mysql,git,github,visualstudio,vscode&perline=7" alt="C#, .NET, JavaScript, PHP, HTML, CSS, React, Unity, MySQL, Git, GitHub, Visual Studio, VS Code" />
+</p>
 
-I'm **Pramod Kaushal**, a Software Engineering graduate from Sri Lanka with a strong passion for **game development**.
+<p align="center">
+  <sub>Also used: ASP.NET MVC · Microsoft SQL Server · Vite</sub>
+</p>
 
-I enjoy building games with **Unity and C#**, experimenting with gameplay mechanics, designing game systems, solving technical problems, and turning ideas into playable experiences.
+Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>UniManage</h3>
+      <p>University management system built with C#, ASP.NET MVC, and Microsoft SQL Server.</p>
+      <p><sub>MVC architecture · Relational databases</sub></p>
+      <a href="https://github.com/Pramod04Kaushal?tab=repositories">Browse repositories →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>TripInMind</h3>
+      <p>Travel destination recommendation website focused on helping people discover places in Sri Lanka.</p>
+      <p><sub>PHP · MySQL · JavaScript · Maps APIs</sub></p>
+      <a href="https://github.com/Pramod04Kaushal?tab=repositories">Browse repositories →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>PAL Fish Farm</h3>
+      <p>Responsive business website built with React and Vite, with reusable components and theme switching.</p>
+      <p><sub>React · JavaScript · CSS</sub></p>
+      <a href="https://github.com/Pramod04Kaushal?tab=repositories">Browse repositories →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Unity Game Projects</h3>
+      <p>Personal projects exploring gameplay mechanics, object interactions, and game-state systems.</p>
+      <p><sub>Unity · C#</sub></p>
+      <a href="https://github.com/Pramod04Kaushal/Action-2D-RPG">Action 2D RPG</a> ·
+      <a href="https://github.com/Pramod04Kaushal/SpaceShooterMobile">Space Shooter</a>
+    </td>
+  </tr>
+</table>
 
-My current focus is building a strong foundation in **game programming and game development workflows** while continuing to develop my software engineering skills.
+<p align="center">
+  <a href="https://github.com/Pramod04Kaushal?tab=repositories"><strong>Explore all repositories →</strong></a>
+</p>
 
+Education
+Software Engineering — Second Class Upper Division
+Esoft Metro Campus · In partnership with London Metropolitan University
 <div align="center">
 
-<kbd>UNITY</kbd>
-&nbsp;
-<kbd>C#</kbd>
-&nbsp;
-<kbd>2D GAME DEVELOPMENT</kbd>
-&nbsp;
-<kbd>GAMEPLAY PROGRAMMING</kbd>
-&nbsp;
-<kbd>ENEMY AI</kbd>
-&nbsp;
-<kbd>GAME UI</kbd>
-&nbsp;
-<kbd>GIT & GITHUB</kbd>
 
-</div>
 
----
-
-# Game Development
-
-My main focus is building **2D games with Unity and C#**, with an emphasis on gameplay programming and interactive systems.
-
-<div align="center">
-
-| Gameplay | Systems | Technical |
-|:---:|:---:|:---:|
-| Player Movement | Health & Lives | C# Programming |
-| Combat | Score Systems | Unity Physics |
-| Enemy Behaviour | Game Objectives | Scene Management |
-| Projectiles | Game UI | Animation |
-
-</div>
-
-I'm particularly interested in learning how individual mechanics come together to create a complete game.
-
-
-
-# What I'm Learning
-
-<div align="center">
-
-### GAMEPLAY
-
-`Combat` · `Player Systems` · `Physics` · `Game States`
-
-### AI
-
-`Enemy Behaviour` · `Movement Logic` · `Detection` · `Decision Systems`
-
-### GAME SYSTEMS
-
-`UI` · `Animation` · `Scene Management` · `Optimization`
-
-### WORKFLOW
-
-`Git` · `GitHub` · `Debugging` · `Project Architecture`
-
-</div>
-
-# 🛠️ Game Development Stack
-
-<div align="center">
-
-### Game Engine
-
-<img src="https://skillicons.dev/icons?i=unity" />
-
-### Programming
-
-<img src="https://skillicons.dev/icons?i=cs" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-
-</div>
-
----
-
-# Other Development Skills
-
-Although game development is my main area of interest, I also work with software and web technologies.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,js,php,python,html,css,react,vite,dotnet,mysql" />
-
-</div>
-
-
-
----
-
-# Current Mission
-
-<div align="center">
-
-### COMPLETED
-
-`Unity Fundamentals` · `C# Gameplay Programming` · `2D Mechanics` · `Git & GitHub`
-
-### CURRENTLY BUILDING
-
-`Action RPG` · `Gameplay Systems` · `Enemy AI` · `Game UI`
-
-### NEXT
-
-`Advanced Game Architecture` · `Advanced AI` · `Optimization` · `Professional Portfolio`
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center"> <img src="https://github-readme-stats-fast.vercel.app/api?username=Pramod04Kaushal&show_icons=true&theme=github_dark&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=FFFFFF" height="180" alt="GitHub statistics"/> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pramod04Kaushal&layout=compact&theme=github_dark&hide_border=true&title_color=007BFF&text_color=FFFFFF" height="180" alt="Top languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Pramod04Kaushal&theme=black-ice&hide_border=true&ring=007BFF&fire=007BFF&currStreakLabel=007BFF" alt="GitHub contribution streak"/> </div>
-
-
----
-
-# 🐍 My Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pramod04Kaushal/Pramod04Kaushal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pramod04Kaushal/Pramod04Kaushal/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Pramod04Kaushal/Pramod04Kaushal/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-# 🌌 Beyond Coding
-
-I'm also interested in the creative side of game development.
-
-<div align="center">
-
-<kbd>MUSIC</kbd>
-&nbsp; Hip-Hop & Beat Production
-
-&nbsp;&nbsp;&nbsp;
-
-<kbd>GAMES</kbd>
-&nbsp; Gameplay & Game Design
-
-&nbsp;&nbsp;&nbsp;
-
-<kbd>CREATIVITY</kbd>
-&nbsp; Visual Concepts & Ideas
-
-&nbsp;&nbsp;&nbsp;
-
-<kbd>TECH</kbd>
-&nbsp; Software & Web Development
-
-</div>
-
----
-
-# Education
-
-**Bachelor's Degree in Software Engineering**
-
-London Metropolitan University
-Second Class Upper Division
-
-**Pearson HND in Software Engineering**
-
----
-
-# Developer Mindset
-
-<div align="center">
-
-**THINK** → **BUILD** → **TEST** → **DEBUG** → **IMPROVE** → **SHIP**
-
-</div>
-
-I believe the best way to learn development is to **build real projects, solve real problems, and continuously improve them**.
-
-
----
-
-# Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Pramod04Kaushal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### BUILDING GAMES | BUILDING SOFTWARE | BUILDING THE FUTURE
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
-
+<a href="https://github.com/Pramod04Kaushal">GitHub</a> ·
+<a href="https://github.com/Pramod04Kaushal?tab=repositories">Projects</a> ·
+<a href="LINKEDIN_PROFILE_URL">LinkedIn</a>
 </div>
