@@ -11,7 +11,7 @@ Building practical software, exploring technologies, and solving problems.
 </div>
 
 About
-I'm a Software Engineering graduate with a Second Class Upper Division degree. I enjoy building applications, working with data, and understanding how individual components come together to form reliable software.
+I'm a Software Engineering graduate. I enjoy building applications, working with data, and understanding how individual components come together to form reliable software.
 
 My projects span web development, database-driven applications, and game development. I'm strengthening my programming fundamentals, software design, debugging, and collaborative development practices as I prepare for a software engineering internship.
 Technologies
